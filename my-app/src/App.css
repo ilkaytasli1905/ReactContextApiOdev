@@ -1,0 +1,27 @@
+.CardOutDiv{
+    width: 100px;
+    height: 150px;
+    display: inline-block;
+    text-align: center;
+}
+
+.FirstCard{
+    background-color: beige;
+    border: 1px solid bisque
+}
+
+
+.Header{
+    height: 50px;    
+    line-height: 50px;
+    background-color: aliceblue;
+    width: 700px;
+}
+.Cities{
+    vertical-align: middle!important;
+    margin-left: 10px;
+}
+
+.CardContainer{
+    width: 700px;
+}
